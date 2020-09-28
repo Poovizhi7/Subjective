@@ -13,4 +13,7 @@ Feature: DBankSavings
     Examples: 
       | TestCase |
       | TC_01    |
+      | TC_02    |
+      | TC_03    |
+      | TC_04    |
  
